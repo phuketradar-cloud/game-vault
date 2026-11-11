@@ -4,5 +4,29 @@
     "image": "covers/heavy-metal-dark-legends.webp",
     "description": "A dark Match-3 deck-building RPG. Match tiles, build your deck and fight through the legends.",
     "url": "https://phuketradar-cloud.github.io/heavy-metal-dark-legends/"
+  },
+  {
+    "title": "Neon Dominion",
+    "image": "covers/neon-dominion.webp",
+    "description": "Cyberpunk turn-based strategy. Six factions fight for control of a 10×10 city.",
+    "url": "https://phuketradar-cloud.github.io/neon-dominion/"
+  },
+  {
+    "title": "The Four Horsemen: Apocalypse",
+    "image": "covers/four-horsemen.webp",
+    "description": "Dark-fantasy first-person dungeon crawler in the spirit of Wizardry. Lead the four Horsemen.",
+    "url": "https://phuketradar-cloud.github.io/Four-Horsemen/"
+  },
+  {
+    "title": "Phra Aphai Mani: Rhythm of Love",
+    "image": "covers/phra-aphai-mani.webp",
+    "description": "A Thai folklore rhythm-survival game. Play the enchanted flute to keep the sea giantess entranced.",
+    "url": "https://phuketradar-cloud.github.io/phra-aphai-mani-rhythm-of-love/"
+  },
+  {
+    "title": "Princess Castle",
+    "image": "covers/princess-castle.png",
+    "description": "A 2D mobile RPG with turn-based battles, loot, cards and a castle for five princesses.",
+    "url": "https://phuketradar-cloud.github.io/princess-castle/"
   }
 ]
