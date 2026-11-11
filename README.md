@@ -1,4 +1,4 @@
-# GAME VAULT
+# MAX GAME VAULT
 
 A minimal gallery of my browser games. React + Vite, deployed to GitHub Pages.
 
